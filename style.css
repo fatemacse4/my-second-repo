@@ -1,0 +1,22 @@
+.blog{
+    text-align: justify;
+    background-color: aqua;
+    border: 4px dashed orangered;
+    border-radius: 30px;
+    padding: 10px 30px 10px 50px;
+    margin: 20px;
+}
+.blog-title{
+    text-align: center;
+    color: navy;
+}
+.author-name{
+    color: red;
+}
+.blog-para{
+
+}
+h1{
+    text-align: center;
+    color: #740707;
+}
